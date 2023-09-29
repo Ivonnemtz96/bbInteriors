@@ -1,48 +1,6 @@
 <!-- Hidden bar back drop -->
 <div class="hidden-bar-back-drop"></div>
 
-<!-- Hidden Bar -->
-<section class="hidden-bar">
-    <div class="inner-box">
-        <div class="upper-box">
-            <div class="nav-logo"><a href="index.html"><img src="images/logo-white.png" alt="" title=""></a></div>
-            <div class="close-btn"><i class="icon fa fa-times"></i></div>
-        </div>
-
-        <div class="text-box">
-            <h4 class="title">Transforming your ideas into digital reality</h4>
-            <div class="text">Sed ut perspiciatis unde omnis natus error voluptatem santium doloremque laudantium, totam
-                rem aperiam, eaque ipsa quae ab nllo inventore veritatis quasi architecto beatae vitae</div>
-        </div>
-
-        <ul class="contact-list-one">
-            <li>
-                <i class="icon lnr-icon-phone-handset"></i>
-                <span class="title">Call Now</span>
-                <div class="text"><a href="tel:+92880098670">+92 (8800) - 98670</a></div>
-            </li>
-            <li>
-                <i class="icon lnr-icon-envelope1"></i>
-                <span class="title">Send Email</span>
-                <div class="text"><a href="mailto:help@company.com">help@company.com</a></div>
-            </li>
-            <li>
-                <i class="icon lnr-icon-map-marker"></i>
-                <span class="title">Address</span>
-                <div class="text">66 Broklyant, New York India 3269</div>
-            </li>
-        </ul>
-
-        <ul class="social-links">
-            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-            <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
-            <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-        </ul>
-    </div>
-</section>
-<!--End Hidden Bar -->
-
 <!-- Banner Section -->
 <section class="banner-section-seven">
     <div class="banner-carousel owl-carousel owl-theme">
@@ -50,12 +8,13 @@
             <div class="bg bg-image" style="background-image: url(images/banner/banner-7.jpg);"></div>
             <div class="auto-container">
                 <div class="content-box">
-                    <h1 class="title animate-2">Creating spaces <br> that tell your <br> story about</h1>
-                    <div class="text animate-3">Vestibulum rhoncus nisl ac gravida porta. Mauris eu sapien lacus. Etiam
-                        <br> molestie justo neque, in convallis massa tempus in.</div>
+                    <h1 class="title animate-2">BB <br> Interiors</h1>
+                    <div class="text animate-3">
+                        Interior Design & Construction
+                    </div>
                     <div class="btn-box animate-4">
                         <a href="page-about.html" class="theme-btn btn-style-one wow fadeInUp"
-                            data-wow-delay="900ms"><span class="btn-title">Read More</span></a>
+                            data-wow-delay="900ms"><span class="btn-title">Ver más</span></a>
                     </div>
                 </div>
             </div>
@@ -64,12 +23,13 @@
             <div class="bg bg-image" style="background-image: url(images/banner/banner-7.jpg);"></div>
             <div class="auto-container">
                 <div class="content-box">
-                    <h1 class="title animate-2">Creating spaces <br> that tell your <br> story about</h1>
-                    <div class="text animate-3">Vestibulum rhoncus nisl ac gravida porta. Mauris eu sapien lacus. Etiam
-                        <br> molestie justo neque, in convallis massa tempus in.</div>
+                    <h1 class="title animate-2">Diseñamos, construimos <br>Inspiramos</h1>
+                    <div class="text animate-3">
+                        Donde la creatividad y la construcción se unen para crear espacios únicos.
+                    </div>
                     <div class="btn-box animate-4">
                         <a href="page-about.html" class="theme-btn btn-style-one wow fadeInUp"
-                            data-wow-delay="900ms"><span class="btn-title">Read More</span></a>
+                            data-wow-delay="900ms"><span class="btn-title">Ver más</span></a>
                     </div>
                 </div>
             </div>
@@ -86,35 +46,40 @@
             <div class="content-column col-xl-6 col-lg-7 col-md-12 col-sm-12 wow fadeInLeft">
                 <div class="inner-column">
                     <div class="sec-title">
-                        <span class="sub-title">About Us</span>
-                        <h2>A smarter way to manage <br> your money.</h2>
-                        <div class="text">It is a long established fact that a reader will be distracted by the readable
-                            hkklj content of a page when looking at its layout. Lorem Ipsum is simply dummy text of the
-                            printing and typesetting industry.</div>
+                        <span class="sub-title">Sobre Nosotros</span>
+                        <h2>BB Interiors Design <br>Interior Design & Construction</h2>
+                        <div class="text">
+                            Con años de experiencia en el sector, nuestro equipo de expertos en diseño y construcción
+                            trabaja en estrecha colaboración contigo para convertir tus ideas en realidades concretas.
+                            Ya sea que estés buscando renovar tu hogar, crear un espacio comercial innovador o
+                            embarcarte en un proyecto personalizado, estamos aquí para brindarte soluciones a medida que
+                            superen tus expectativas.
+                        </div>
                     </div>
                     <ul class="list-style-two two-column">
-                        <li><i class="fa fa-check-circle"></i> Mistakes To Avoid</li>
-                        <li><i class="fa fa-check-circle"></i> Your Startup</li>
-                        <li><i class="fa fa-check-circle"></i> Knew About Fonts</li>
-                        <li><i class="fa fa-check-circle"></i> Winning Metric for Your Startup</li>
+                        <li><i class="fa fa-check-circle"></i>Errores que debe evitar</li>
+                        <li><i class="fa fa-check-circle"></i> Equipo de expertos</li>
+                        <li><i class="fa fa-check-circle"></i> Cumplimiento de regulaciones</li>
+                        <li><i class="fa fa-check-circle"></i> Flexibilidad y adaptabilidad</li>
                     </ul>
                     <div class="row">
                         <div class="info-box col-lg-6 col-md-6 col-sm-6">
                             <div class="inner-box">
                                 <i class="icon flaticon-diploma"></i>
-                                <h5 class="title">Full Time Employee</h5>
+                                <h5 class="title">Proyectos de diversos tamaños</h5>
                             </div>
                         </div>
                         <div class="info-box col-lg-6 col-md-6 col-sm-6">
                             <div class="inner-box">
                                 <i class="icon flaticon-diamond"></i>
-                                <h5 class="title">Award Winner</h5>
+                                <h5 class="title">Presupuestos transparentes</h5>
                             </div>
                         </div>
                     </div>
                     <div class="btn-box">
-                        <a href="page-about.html" class="theme-btn btn-style-one"><span class="btn-title">Read More <i
-                                    class="fa fa-arrow-right"></i></span></a>
+                        <a href="page-about.html" class="theme-btn btn-style-one">
+                            <span class="btn-title">Contactar <i class="fa fa-arrow-right"></i></span>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -133,8 +98,8 @@
                             <div class="inner-box">
                                 <div class="icon-box"><i class="icon flaticon-diamond"></i></div>
                                 <div class="title-box">
-                                    <div class="text">Established</div>
-                                    <h4 class="count">2020</h4>
+                                    <div class="text">Desde</div>
+                                    <h4 class="count">2019</h4>
                                 </div>
                             </div>
                         </div>
@@ -143,8 +108,10 @@
                         <div class="inner-box wow fadeInUp" data-wow-delay="900ms">
                             <i class="icon fa fa-award"></i>
                             <div class="about-icon">
-                                <h5 class="title">Best Awarded Company</h5>
-                                <div class="text">Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, sed
+                                <h5 class="title">Equipo de expertos</h5>
+                                <div class="text">
+                                    Equipo de diseñadores y constructores <br> altamente calificados y
+                                    creativos
                                 </div>
                             </div>
                         </div>
