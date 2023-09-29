@@ -1,6 +1,6 @@
 <head>
     <meta charset="utf-8">
-    <title>Archisky | Architecture and Interior Design HTML Template | Home Page Single 07</title>
+    <title>BB Interiors Design</title>
     <!-- Stylesheets -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
