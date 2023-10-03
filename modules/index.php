@@ -46,7 +46,7 @@
             <div class="content-column col-xl-6 col-lg-7 col-md-12 col-sm-12 wow fadeInLeft">
                 <div class="inner-column">
                     <div class="sec-title">
-                        <span class="sub-title">Sobre Nosotros</span>
+                        <span class="sub-title">Bienvenidos a</span>
                         <h2>BB Interiors Design <br>Interior Design & Construction</h2>
                         <div class="text">
                             Con años de experiencia en el sector, nuestro equipo de expertos en diseño y construcción
@@ -123,91 +123,49 @@
 </section>
 <!--End About Section -->
 
-<!-- Services Section -->
-<section id="services" class="services-section-seven">
+<!-- Fun Fact Section-->
+<section class="fun-fact-section-two">
     <div class="auto-container">
-        <div class="sec-title light text-center">
-            <span class="sub-title">Best Service</span>
-            <h2>Interior design that speaks <br> volumes</h2>
-        </div>
-
-        <div class="row">
-
-            <!-- services-Block -->
-            <div class="services-block-seven col-xl-3 col-lg-6 col-md-6 col-sm-12 wow fadeInUp">
-                <div class="inner-box">
-                    <div class="image-box">
-                        <figure class="image"><img src="images/resource/services8-1.jpg" alt=""></figure>
-                    </div>
-                    <div class="content-box">
-                        <div class="icon-box"><i class="icon flaticon-approved"></i></div>
-                        <h4 class="title"><a href="page-service-details.html">Tranquil Retreat Designers</a></h4>
-                        <div class="text">It is a long established fact that a reader hjl will be distracted by the
-                            readable content</div>
-                        <div class="btn-box">
-                            <a href="page-service-details.html" class="read-more">Read More <i
-                                    class="icon fa fa-arrow-right"></i></a>
-                            <div class="count">01</div>
+        <div class="fact-counter">
+            <div class="row">
+                <!-- Counter block-->
+                <div class="counter-block-two col-xl-3 col-lg-6 col-md-6 col-sm-12 wow fadeInUp">
+                    <div class="inner">
+                        <i class="icon fa fa-users-medical"></i>
+                        <div class="count-box"><span class="count-text" data-speed="3000" data-stop="300">0</span>+
                         </div>
+                        <h6 class="counter-title">Clientes Satisfechos</h6>
                     </div>
                 </div>
-            </div>
 
-            <!-- services-Block -->
-            <div class="services-block-seven col-xl-3 col-lg-6 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="300ms">
-                <div class="inner-box">
-                    <div class="image-box">
-                        <figure class="image"><img src="images/resource/services8-2.jpg" alt=""></figure>
-                    </div>
-                    <div class="content-box">
-                        <div class="icon-box"><i class="icon flaticon-diamond"></i></div>
-                        <h4 class="title"><a href="page-service-details.html">Tranquil Retreat Designers</a></h4>
-                        <div class="text">It is a long established fact that a reader hjl will be distracted by the
-                            readable content</div>
-                        <div class="btn-box">
-                            <a href="page-service-details.html" class="read-more">Read More <i
-                                    class="icon fa fa-arrow-right"></i></a>
-                            <div class="count">02</div>
+                <!-- Counter block-->
+                <div class="counter-block-two col-xl-3 col-lg-6 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="300ms">
+                    <div class="inner">
+                        <i class="icon fa fa-award"></i>
+                        <div class="count-box"><span class="count-text" data-speed="3000" data-stop="400">0</span>+
                         </div>
+                        <h6 class="counter-title">Proyectos terminados</h6>
                     </div>
                 </div>
-            </div>
 
-            <!-- services-Block -->
-            <div class="services-block-seven col-xl-3 col-lg-6 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="600ms">
-                <div class="inner-box">
-                    <div class="image-box">
-                        <figure class="image"><img src="images/resource/services8-3.jpg" alt=""></figure>
-                    </div>
-                    <div class="content-box">
-                        <div class="icon-box"><i class="icon flaticon-diploma"></i></div>
-                        <h4 class="title"><a href="page-service-details.html">Tranquil Retreat Designers</a></h4>
-                        <div class="text">It is a long established fact that a reader hjl will be distracted by the
-                            readable content</div>
-                        <div class="btn-box">
-                            <a href="page-service-details.html" class="read-more">Read More <i
-                                    class="icon fa fa-arrow-right"></i></a>
-                            <div class="count">03</div>
+                <!-- Counter block-->
+                <div class="counter-block-two col-xl-3 col-lg-6 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="600ms">
+                    <div class="inner">
+                        <i class="icon fa fa-folder-gear"></i>
+                        <div class="count-box"><span class="count-text" data-speed="3000" data-stop="5">0</span>+
                         </div>
+                        <h6 class="counter-title">Años de experiencia</h6>
                     </div>
                 </div>
-            </div>
 
-            <!-- services-Block -->
-            <div class="services-block-seven col-xl-3 col-lg-6 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="900ms">
-                <div class="inner-box">
-                    <div class="image-box">
-                        <figure class="image"><img src="images/resource/services8-4.jpg" alt=""></figure>
-                    </div>
-                    <div class="content-box">
-                        <div class="icon-box"><i class="icon flaticon-graph-1"></i></div>
-                        <h4 class="title"><a href="page-service-details.html">Tranquil Retreat Designers</a></h4>
-                        <div class="text">It is a long established fact that a reader hjl will be distracted by the
-                            readable content</div>
-                        <div class="btn-box">
-                            <a href="page-service-details.html" class="read-more">Read More <i
-                                    class="icon fa fa-arrow-right"></i></a>
-                            <div class="count">04</div>
+                <!-- Counter block-->
+                <div class="counter-block-two col-xl-3 col-lg-6 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="900ms">
+                    <div class="inner">
+                        <div class="content">
+                            <i class="icon fa fa-star"></i>
+                            <div class="count-box"><span class="count-text" data-speed="3000" data-stop="20">0</span>+
+                            </div>
+                            <h6 class="counter-title">Servicios</h6>
                         </div>
                     </div>
                 </div>
@@ -215,7 +173,198 @@
         </div>
     </div>
 </section>
-<!--End Services Section -->
+<!-- End Fun Fact Section-->
+
+<!-- Process Section -->
+<section class="process-section-three pt-0 mt-5">
+    <div class="auto-container">
+        <div class="sec-title">
+            <span class="sub-title">Nuestros Servicios</span>
+            <h2> <br> Interiorismo en estado puro</h2>
+        </div>
+
+        <div class="team-carousel owl-carousel owl-theme default-navs">
+
+            <!-- Process-Block -->
+            <div class="process-block-three">
+                <div class="inner-box">
+                    <div class="top-box">
+                        <div class="icon-box"><i class="icon flaticon-graph-1"></i></div>
+                        <h2 class="count">01</h2>
+                    </div>
+                    <h4 class="title"><a href="page-about.html">UI/UX Design</a></h4>
+                    <div class="text">It is a long established fact that a reader hk will be distracted by the readable
+                        contenthl of a page when looking at its layout. </div>
+                    <div class="btn-box">
+                        <a href="page-about.html" class="read-more"><i class="icon fa fa-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Process-Block -->
+            <div class="process-block-three">
+                <div class="inner-box">
+                    <div class="top-box">
+                        <div class="icon-box"><i class="icon flaticon-approved"></i></div>
+                        <h2 class="count">02</h2>
+                    </div>
+                    <h4 class="title"><a href="page-about.html">Cloud Services</a></h4>
+                    <div class="text">It is a long established fact that a reader hk will be distracted by the readable
+                        contenthl of a page when looking at its layout. </div>
+                    <div class="btn-box">
+                        <a href="page-about.html" class="read-more"><i class="icon fa fa-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Process-Block -->
+            <div class="process-block-three">
+                <div class="inner-box">
+                    <div class="top-box">
+                        <div class="icon-box"><i class="icon flaticon-diamond"></i></div>
+                        <h2 class="count">03</h2>
+                    </div>
+                    <h4 class="title"><a href="page-about.html">Network Solutions</a></h4>
+                    <div class="text">It is a long established fact that a reader hk will be distracted by the readable
+                        contenthl of a page when looking at its layout. </div>
+                    <div class="btn-box">
+                        <a href="page-about.html" class="read-more"><i class="icon fa fa-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Process-Block -->
+            <div class="process-block-three">
+                <div class="inner-box">
+                    <div class="top-box">
+                        <div class="icon-box"><i class="icon flaticon-graph-1"></i></div>
+                        <h2 class="count">01</h2>
+                    </div>
+                    <h4 class="title"><a href="page-about.html">UI/UX Design</a></h4>
+                    <div class="text">It is a long established fact that a reader hk will be distracted by the readable
+                        contenthl of a page when looking at its layout. </div>
+                    <div class="btn-box">
+                        <a href="page-about.html" class="read-more"><i class="icon fa fa-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--End Process Section -->
+
+<!-- Project Section -->
+<section class="project-section-five pt-0">
+    <div class="auto-container">
+        <div class="sec-title light text-center">
+            <span class="sub-title">Latest Gallery</span>
+            <h2>Style meets substance in our <br> designs</h2>
+        </div>
+
+        <div class="row">
+
+            <div class="column col-xl-8 col-lg-12 col-md-12 col-sm-12 order-xl-2">
+                <div class="row">
+                    <!-- Project Block -->
+                    <div class="project-block-five col-lg-6 col-md-6 col-sm-12">
+                        <div class="inner-box">
+                            <div class="image-box">
+                                <figure class="image"><a href="page-projects.html"><img
+                                            src="images/resource/project5-2.jpg" alt=""></a></figure>
+                                <div class="info-box">
+                                    <div class="title-box">
+                                        <h4 class="title"><a href="page-projects.html">Network Solutions</a></h4>
+                                        <div class="text">Lorem Ipsum is simply dummy</div>
+                                    </div>
+                                    <div class="btn-box"><a href="page-projects.html" class="read-more"><i
+                                                class="fa fa-plus"></i></a></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Project Block -->
+                    <div class="project-block-five col-lg-6 col-md-6 col-sm-12">
+                        <div class="inner-box">
+                            <div class="image-box">
+                                <figure class="image"><a href="page-projects.html"><img
+                                            src="images/resource/project5-3.jpg" alt=""></a></figure>
+                                <div class="info-box">
+                                    <div class="title-box">
+                                        <h4 class="title"><a href="page-projects.html">Network Solutions</a></h4>
+                                        <div class="text">Lorem Ipsum is simply dummy</div>
+                                    </div>
+                                    <div class="btn-box"><a href="page-projects.html" class="read-more"><i
+                                                class="fa fa-plus"></i></a></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Project Block -->
+                    <div class="project-block-five col-lg-6 col-md-6 col-sm-12">
+                        <div class="inner-box">
+                            <div class="image-box">
+                                <figure class="image"><a href="page-projects.html"><img
+                                            src="images/resource/project5-4.jpg" alt=""></a></figure>
+                                <div class="info-box">
+                                    <div class="title-box">
+                                        <h4 class="title"><a href="page-projects.html">Network Solutions</a></h4>
+                                        <div class="text">Lorem Ipsum is simply dummy</div>
+                                    </div>
+                                    <div class="btn-box"><a href="page-projects.html" class="read-more"><i
+                                                class="fa fa-plus"></i></a></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Project Block -->
+                    <div class="project-block-five col-lg-6 col-md-6 col-sm-12">
+                        <div class="inner-box">
+                            <div class="image-box">
+                                <figure class="image"><a href="page-projects.html"><img
+                                            src="images/resource/project5-5.jpg" alt=""></a></figure>
+                                <div class="info-box">
+                                    <div class="title-box">
+                                        <h4 class="title"><a href="page-projects.html">Network Solutions</a></h4>
+                                        <div class="text">Lorem Ipsum is simply dummy</div>
+                                    </div>
+                                    <div class="btn-box"><a href="page-projects.html" class="read-more"><i
+                                                class="fa fa-plus"></i></a></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="column col-xl-4 col-lg-6 col-md-6 col-sm-12">
+                <!-- Project Block -->
+                <div class="project-block-five">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image"><a href="page-projects.html"><img src="images/resource/project5-1.jpg"
+                                        alt=""></a></figure>
+                            <div class="info-box">
+                                <div class="title-box">
+                                    <h4 class="title"><a href="page-projects.html">Network Solutions</a></h4>
+                                    <div class="text">Lorem Ipsum is simply dummy</div>
+                                </div>
+                                <div class="btn-box"><a href="page-projects.html" class="read-more"><i
+                                            class="fa fa-plus"></i></a></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Projects Section -->
+
+
 
 <!-- call to action -->
 <section class="call-to-action-six">
@@ -237,184 +386,12 @@
 </section>
 <!-- End call-to-action -->
 
-<!-- Project section -->
-<section id="projects" class="project-section-seven">
-    <div class="auto-container">
-        <div class="sec-title text-center light">
-            <span class="sub-title">Latest Gallery</span>
-            <h2>Unlock the beauty within <br> your walls</h2>
-        </div>
-
-        <div class="row">
-            <div class="column col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="300ms">
-                <!-- project-block -->
-                <div class="project-block-seven">
-                    <div class="inner-box">
-                        <div class="image-box">
-                            <figure class="image"><a href="page-projects.html"><img src="images/resource/project7-1.jpg"
-                                        alt="Image"></a></figure>
-                            <div class="info-box">
-                                <div class="title">Interior Edge</div>
-                                <div class="text">Lorem Ipsum is simply dummy</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- project-block -->
-                <div class="project-block-seven">
-                    <div class="inner-box">
-                        <div class="image-box">
-                            <figure class="image"><a href="page-projects.html"><img src="images/resource/project7-2.jpg"
-                                        alt="Image"></a></figure>
-                            <div class="info-box">
-                                <div class="title">Interior Edge</div>
-                                <div class="text">Lorem Ipsum is simply dummy</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="column col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="600ms">
-                <!-- project-block -->
-                <div class="project-block-seven">
-                    <div class="inner-box">
-                        <div class="image-box">
-                            <figure class="image"><a href="page-projects.html"><img src="images/resource/project7-3.jpg"
-                                        alt="Image"></a></figure>
-                            <div class="info-box">
-                                <div class="title">Interior Edge</div>
-                                <div class="text">Lorem Ipsum is simply dummy</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- project-block -->
-                <div class="project-block-seven">
-                    <div class="inner-box">
-                        <div class="image-box">
-                            <figure class="image"><a href="page-projects.html"><img src="images/resource/project7-4.jpg"
-                                        alt="Image"></a></figure>
-                            <div class="info-box">
-                                <div class="title">Interior Edge</div>
-                                <div class="text">Lorem Ipsum is simply dummy</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="column col-lg-4 col-md-6 col-sm-12  wow fadeInUp" data-wow-delay="900ms">
-                <!-- project-block -->
-                <div class="project-block-seven">
-                    <div class="inner-box">
-                        <div class="image-box">
-                            <figure class="image"><a href="page-projects.html"><img src="images/resource/project7-5.jpg"
-                                        alt="Image"></a></figure>
-                            <div class="info-box">
-                                <div class="title">Interior Edge</div>
-                                <div class="text">Lorem Ipsum is simply dummy</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- project-block -->
-                <div class="project-block-seven">
-                    <div class="inner-box">
-                        <div class="image-box">
-                            <figure class="image"><a href="page-projects.html"><img src="images/resource/project7-6.jpg"
-                                        alt="Image"></a></figure>
-                            <div class="info-box">
-                                <div class="title">Interior Edge</div>
-                                <div class="text">Lorem Ipsum is simply dummy</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- End Project-section -->
-
-<!-- Team Section -->
-<section id="team" class="team-section-seven pt-0">
-    <div class="auto-container">
-        <div class="sec-title light text-center">
-            <span class="sub-title">Our Team</span>
-            <h2>Elevate your surroundings, <br> elevate your life</h2>
-        </div>
-
-        <div class="row">
-            <!-- Team block -->
-            <div class="team-block-seven col-lg-4 col-md-6 col-sm-12 wow fadeInUp">
-                <div class="inner-box">
-                    <div class="image-box">
-                        <figure class="image"><a href="page-team-details.html"><img src="images/resource/team7-1.jpg"
-                                    alt="Image"></a></figure>
-                    </div>
-                    <div class="info-box">
-                        <h4 class="name"><a href="page-team-details.html">Ralph Edwards</a></h4>
-                        <span class="designation">Medical Assistant</span>
-                        <div class="social-icons">
-                            <a href="#"><i class="fab fa-facebook-f"></i></a>
-                            <a href="#"><i class="fab fa-twitter"></i></a>
-                            <a href="#"><i class="fab fa-linkedin"></i></a>
-                            <a href="#"><i class="fab fa-pinterest"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Team block -->
-            <div class="team-block-seven col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="400ms">
-                <div class="inner-box">
-                    <div class="image-box">
-                        <figure class="image"><a href="page-team-details.html"><img src="images/resource/team7-2.jpg"
-                                    alt="Image"></a></figure>
-                    </div>
-                    <div class="info-box">
-                        <h4 class="name"><a href="page-team-details.html">Courtney Henry</a></h4>
-                        <span class="designation">President of Sales</span>
-                        <div class="social-icons">
-                            <a href="#"><i class="fab fa-facebook-f"></i></a>
-                            <a href="#"><i class="fab fa-twitter"></i></a>
-                            <a href="#"><i class="fab fa-linkedin"></i></a>
-                            <a href="#"><i class="fab fa-pinterest"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Team block -->
-            <div class="team-block-seven col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="800ms">
-                <div class="inner-box">
-                    <div class="image-box">
-                        <figure class="image"><a href="page-team-details.html"><img src="images/resource/team7-3.jpg"
-                                    alt="Image"></a></figure>
-                    </div>
-                    <div class="info-box">
-                        <h4 class="name"><a href="page-team-details.html">Devon Lane</a></h4>
-                        <span class="designation">Marketing Coordinator</span>
-                        <div class="social-icons">
-                            <a href="#"><i class="fab fa-facebook-f"></i></a>
-                            <a href="#"><i class="fab fa-twitter"></i></a>
-                            <a href="#"><i class="fab fa-linkedin"></i></a>
-                            <a href="#"><i class="fab fa-pinterest"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- End Team Section -->
 
 <!-- Process Section -->
 <section class="process-section-six pt-0">
     <div class="auto-container">
         <div class="sec-title text-center">
-            <span class="sub-title">Work Process</span>
+            <span class="sub-title">Pasión por el diseño</span>
             <h2>Unleash the potential of <br> your space</h2>
         </div>
 

@@ -40,7 +40,7 @@ License: copyright commercial
   --theme-color-light: #ffffff;
   --theme-color-dark: #30373E;
   --theme-color-gray: #FAFAFA;
-  --theme-color1: #DAA14C;
+  --theme-color1: #c19090;
   --theme-color2: #383F46;
   --theme-color4: #010D4C;
   --bg-theme-color1: var(--theme-color1);
@@ -7938,7 +7938,7 @@ Section Title
 ***/
 .project-section-five {
   position: relative;
-  background-color: var(--theme-color-dark);
+  background-color: #c1a9908f;
   padding: 120px 0 90px;
 }
 .project-section-five .sec-title {
@@ -8693,7 +8693,7 @@ Section Title
 }
 .process-block-three .inner-box {
   position: relative;
-  padding: 56px 30px 10px;
+  padding: 5px 30px 7px;
   height: 100%;
   background-color: var(--theme-color-gray);
   -webkit-transition: all 300ms ease;
