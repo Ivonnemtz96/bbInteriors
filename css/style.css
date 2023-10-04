@@ -4514,7 +4514,7 @@ Section Title
   padding: 50px;
   max-width: 665px;
   width: 100%;
-  background-color: var(--theme-color-light);
+  /* background-color: var(--theme-color-light); */
   z-index: 99;
 }
 @media (max-width: 767.98px) {
@@ -7986,8 +7986,8 @@ Section Title
   left: 0;
   width: 100%;
   height: 0%;
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(48, 55, 62, 0)), to(#30373E));
-  background: linear-gradient(180deg, rgba(48, 55, 62, 0) 0%, #30373E 100%);
+  /* background: -webkit-gradient(linear, left top, left bottom, from(rgba(48, 55, 62, 0)), to(#30373E));
+  background: linear-gradient(180deg, rgba(48, 55, 62, 0) 0%, #30373E 100%); */
   pointer-events: none;
   -webkit-transition: all 300ms ease;
   transition: all 300ms ease;

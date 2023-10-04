@@ -1,11 +1,11 @@
 <!-- Footer Section -->
 <footer class="main-footer footer-style-seven">
-    <div class="bg bg-image" style="background-image: url(images/background/9.jpg);"></div>
+    <div class="bg bg-image" style="background-image: url(/images/background/9.jpg);"></div>
     <div class="footer-upper">
         <div class="auto-container">
             <div class="outer-box">
                 <div class="upper-left">
-                    <div class="logo"><img src="images/logo-white.png" alt="Logo"></div>
+                    <div class="logo"><img src="/images/logo-white.png" alt="Logo"></div>
                 </div>
                 <div class="upper-right">
                     <!-- Info Btn -->
@@ -36,7 +36,7 @@
                             <!-- Recent Post -->
                             <article class="recent-post">
                                 <div class="inner">
-                                    <figure class="post-thumb"><a href="#"><img src="images/resource/footer7-thumb1.jpg"
+                                    <figure class="post-thumb"><a href="#"><img src="/images/resource/footer7-thumb1.jpg"
                                                 alt=""></a></figure>
                                     <div class="post-info"><i class="fas fa-calendar-alt"></i> January 11, 2023</div>
                                     <div class="post-title"><a href="#">The standard chunk of Lorem Ipsum</a></div>
@@ -46,7 +46,7 @@
                             <!-- Recent Post -->
                             <article class="recent-post">
                                 <div class="inner">
-                                    <figure class="post-thumb"><a href="#"><img src="images/resource/footer7-thumb2.jpg"
+                                    <figure class="post-thumb"><a href="#"><img src="/images/resource/footer7-thumb2.jpg"
                                                 alt=""></a></figure>
                                     <div class="post-info"><i class="fas fa-calendar-alt"></i> January 11, 2023</div>
                                     <div class="post-title"><a href="#">The standard chunk of Lorem Ipsum</a></div>

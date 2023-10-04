@@ -5,31 +5,33 @@
 <section class="banner-section-seven">
     <div class="banner-carousel owl-carousel owl-theme">
         <div class="slide-item">
-            <div class="bg bg-image" style="background-image: url(images/banner/banner-7.jpg);"></div>
+            <div class="bg bg-image" style="background-image: url(/images/banner/01.jpg);"></div>
             <div class="auto-container">
                 <div class="content-box">
-                    <h1 class="title animate-2">BB <br> Interiors</h1>
-                    <div class="text animate-3">
+                    <h1 class="title animate-2" style="color: #fff; text-shadow: #000 1px 1px 1px;">BB <br> Interiors
+                    </h1>
+                    <div class="text animate-3" style="color: #fff; text-shadow: #000 1px 1px 1px;">
                         Interior Design & Construction
                     </div>
                     <div class="btn-box animate-4">
-                        <a href="page-about.html" class="theme-btn btn-style-one wow fadeInUp"
-                            data-wow-delay="900ms"><span class="btn-title">Ver más</span></a>
+                        <a href="#" class="theme-btn btn-style-one wow fadeInUp" data-wow-delay="900ms"><span
+                                class="btn-title">Ver más</span></a>
                     </div>
                 </div>
             </div>
         </div>
         <div class="slide-item">
-            <div class="bg bg-image" style="background-image: url(images/banner/banner-7.jpg);"></div>
+            <div class="bg bg-image" style="background-image: url(/images/banner/02.jpg);"></div>
             <div class="auto-container">
                 <div class="content-box">
-                    <h1 class="title animate-2">Diseñamos, construimos <br>Inspiramos</h1>
-                    <div class="text animate-3">
+                    <h1 style="color: #fff; text-shadow: #000 1px 1px 1px;" class="title animate-2">Diseñamos,
+                        construimos <br>Inspiramos</h1>
+                    <div class="text animate-3" style="color: #fff; text-shadow: #000 1px 1px 1px;">
                         Donde la creatividad y la construcción se unen para crear espacios únicos.
                     </div>
                     <div class="btn-box animate-4">
-                        <a href="page-about.html" class="theme-btn btn-style-one wow fadeInUp"
-                            data-wow-delay="900ms"><span class="btn-title">Ver más</span></a>
+                        <a href="#" class="theme-btn btn-style-one wow fadeInUp" data-wow-delay="900ms"><span
+                                class="btn-title">Ver más</span></a>
                     </div>
                 </div>
             </div>
@@ -86,15 +88,25 @@
 
             <!-- images column -->
             <div class="image-column col-xl-6 col-lg-5 col-md-12 col-sm-12 wow fadeInRight" data-wow-delay="300ms">
-                <div class="inner-column">
-                    <div class="icon shape-5"></div>
-                    <div class="icon icon-line"></div>
+                <div class="row justify-content-between h-100">
+                    <div class="col-md-12 text-start mb-2">
+                        <figure class="image overlay-anim">
+                            <img src="/images/resource/01.jpg" alt="Image" style="border-radius: 0px 100px;width: 30rem;">
+                        </figure>
+                    </div>
+                    <div class="col-md-12 text-end mt-2">
+                    <figure class="image-2 overlay-anim ">
+                        <img src="/images/resource/02.jpg" alt="Image" style="border-radius: 0px 100px;width: 30rem;">
+                    </figure>
+                    </div>
+                </div>
+                <div hidden class="inner-column">
+                    <!-- <div class="icon shape-5"></div>
+                    <div class="icon icon-line"></div> -->
                     <div class="image-box">
-                        <figure class="image overlay-anim"><img src="images/resource/about10-1.jpg" alt="Image">
-                        </figure>
-                        <figure class="image-2 overlay-anim"><img src="images/resource/about10-2.jpg" alt="Image">
-                        </figure>
-                        <div class="info-box">
+
+                        
+                        <!-- <div class="info-box">
                             <div class="inner-box">
                                 <div class="icon-box"><i class="icon flaticon-diamond"></i></div>
                                 <div class="title-box">
@@ -102,9 +114,9 @@
                                     <h4 class="count">2019</h4>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
-                    <div class="experience-box">
+                    <!-- <div class="experience-box">
                         <div class="inner-box wow fadeInUp" data-wow-delay="900ms">
                             <i class="icon fa fa-award"></i>
                             <div class="about-icon">
@@ -115,7 +127,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
@@ -255,8 +267,8 @@
 
 <!-- Project Section -->
 <section class="project-section-five pt-0">
-    <div class="auto-container">
-        <div class="sec-title light text-center">
+    <div class="auto-container ">
+        <div class="sec-title light text-center pt-40">
             <span class="sub-title">Latest Gallery</span>
             <h2>Style meets substance in our <br> designs</h2>
         </div>
@@ -270,15 +282,7 @@
                         <div class="inner-box">
                             <div class="image-box">
                                 <figure class="image"><a href="page-projects.html"><img
-                                            src="images/resource/project5-2.jpg" alt=""></a></figure>
-                                <div class="info-box">
-                                    <div class="title-box">
-                                        <h4 class="title"><a href="page-projects.html">Network Solutions</a></h4>
-                                        <div class="text">Lorem Ipsum is simply dummy</div>
-                                    </div>
-                                    <div class="btn-box"><a href="page-projects.html" class="read-more"><i
-                                                class="fa fa-plus"></i></a></div>
-                                </div>
+                                            src="/images/resource/04.jpg" alt=""></a></figure>
                             </div>
                         </div>
                     </div>
@@ -288,15 +292,7 @@
                         <div class="inner-box">
                             <div class="image-box">
                                 <figure class="image"><a href="page-projects.html"><img
-                                            src="images/resource/project5-3.jpg" alt=""></a></figure>
-                                <div class="info-box">
-                                    <div class="title-box">
-                                        <h4 class="title"><a href="page-projects.html">Network Solutions</a></h4>
-                                        <div class="text">Lorem Ipsum is simply dummy</div>
-                                    </div>
-                                    <div class="btn-box"><a href="page-projects.html" class="read-more"><i
-                                                class="fa fa-plus"></i></a></div>
-                                </div>
+                                            src="/images/resource/05.jpg" alt=""></a></figure>
                             </div>
                         </div>
                     </div>
@@ -306,15 +302,7 @@
                         <div class="inner-box">
                             <div class="image-box">
                                 <figure class="image"><a href="page-projects.html"><img
-                                            src="images/resource/project5-4.jpg" alt=""></a></figure>
-                                <div class="info-box">
-                                    <div class="title-box">
-                                        <h4 class="title"><a href="page-projects.html">Network Solutions</a></h4>
-                                        <div class="text">Lorem Ipsum is simply dummy</div>
-                                    </div>
-                                    <div class="btn-box"><a href="page-projects.html" class="read-more"><i
-                                                class="fa fa-plus"></i></a></div>
-                                </div>
+                                            src="/images/resource/06.jpg" alt=""></a></figure>
                             </div>
                         </div>
                     </div>
@@ -324,15 +312,7 @@
                         <div class="inner-box">
                             <div class="image-box">
                                 <figure class="image"><a href="page-projects.html"><img
-                                            src="images/resource/project5-5.jpg" alt=""></a></figure>
-                                <div class="info-box">
-                                    <div class="title-box">
-                                        <h4 class="title"><a href="page-projects.html">Network Solutions</a></h4>
-                                        <div class="text">Lorem Ipsum is simply dummy</div>
-                                    </div>
-                                    <div class="btn-box"><a href="page-projects.html" class="read-more"><i
-                                                class="fa fa-plus"></i></a></div>
-                                </div>
+                                            src="/images/resource/07.jpg" alt=""></a></figure>
                             </div>
                         </div>
                     </div>
@@ -345,16 +325,8 @@
                 <div class="project-block-five">
                     <div class="inner-box">
                         <div class="image-box">
-                            <figure class="image"><a href="page-projects.html"><img src="images/resource/project5-1.jpg"
+                            <figure class="image"><a href="page-projects.html"><img src="/images/resource/03.jpg"
                                         alt=""></a></figure>
-                            <div class="info-box">
-                                <div class="title-box">
-                                    <h4 class="title"><a href="page-projects.html">Network Solutions</a></h4>
-                                    <div class="text">Lorem Ipsum is simply dummy</div>
-                                </div>
-                                <div class="btn-box"><a href="page-projects.html" class="read-more"><i
-                                            class="fa fa-plus"></i></a></div>
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -368,18 +340,18 @@
 
 <!-- call to action -->
 <section class="call-to-action-six">
-    <div class="bg bg-image" style="background-image: url(images/background/6.jpg);"></div>
+    <div class="bg bg-image" style="background-image: url(/images/resource/08.jpg);"></div>
     <div class="auto-container">
         <div class="outer-box">
             <div class="content-box">
                 <div class="sec-title light">
-                    <span class="sub-title">Contact Us</span>
-                    <h2 class="title">Do You Need Any IT Solutions <br> Get In Touch.</h2>
+                    <span class="sub-title" style="color: #fff;">Contáctanos</span>
+                    <h2 class="title">Creamos un mundo a tu medida, <br>donde cada detalle importa.</h2>
                 </div>
             </div>
             <div class="btn-box">
-                <a href="page-contact.html" class="theme-btn btn-style-one"><span class="btn-title">Get In
-                        Touch</span></a>
+                <a href="page-contact.html" class="theme-btn btn-style-one">
+                    <span class="btn-title"> Contactar</span></a>
             </div>
         </div>
     </div>
@@ -390,59 +362,26 @@
 <!-- Process Section -->
 <section class="process-section-six pt-0">
     <div class="auto-container">
-        <div class="sec-title text-center">
+        <div class="sec-title text-center pt-50">
             <span class="sub-title">Pasión por el diseño</span>
-            <h2>Unleash the potential of <br> your space</h2>
+            <h2>Hacemos realidad tu <br> espacio de ensueño.</h2>
         </div>
 
         <div class="row">
 
             <!-- process-Block -->
             <div class="process-block-six col-lg-4 col-md-6 col-sm-12 wow fadeInUp">
-                <div class="inner-box">
-                    <div class="content-box">
-                        <div class="icon-box"><i class="icon flaticon-graph-1"></i></div>
-                        <h4 class="title"><a href="news-about.html">Visionary Interiors</a></h4>
-                        <div class="text">It is a long established fact that a reader hjl will be distracted by the
-                            readable contentjk of a page when looking at its layout.</div>
-                    </div>
-                    <div class="bottom-box">
-                        <a href="news-about.html" class="read-more">Read More <i class="icon fa fa-arrow-right"></i></a>
-                        <h4 class="count">01</h4>
-                    </div>
-                </div>
+                <img src="/images/resource/09.jpg" alt="">
             </div>
 
             <!-- process-Block -->
             <div class="process-block-six col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="300ms">
-                <div class="inner-box">
-                    <div class="content-box">
-                        <div class="icon-box"><i class="icon flaticon-diploma"></i></div>
-                        <h4 class="title"><a href="news-about.html">Custom Home Designers</a></h4>
-                        <div class="text">It is a long established fact that a reader hjl will be distracted by the
-                            readable contentjk of a page when looking at its layout.</div>
-                    </div>
-                    <div class="bottom-box">
-                        <a href="news-about.html" class="read-more">Read More <i class="icon fa fa-arrow-right"></i></a>
-                        <h4 class="count">02</h4>
-                    </div>
-                </div>
+               
             </div>
 
             <!-- process-Block -->
             <div class="process-block-six col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="600ms">
-                <div class="inner-box">
-                    <div class="content-box">
-                        <div class="icon-box"><i class="icon flaticon-diamond"></i></div>
-                        <h4 class="title"><a href="news-about.html">Harmony Home Designs</a></h4>
-                        <div class="text">It is a long established fact that a reader hjl will be distracted by the
-                            readable contentjk of a page when looking at its layout.</div>
-                    </div>
-                    <div class="bottom-box">
-                        <a href="news-about.html" class="read-more">Read More <i class="icon fa fa-arrow-right"></i></a>
-                        <h4 class="count">03</h4>
-                    </div>
-                </div>
+               
             </div>
         </div>
     </div>
@@ -462,7 +401,7 @@
                 <!-- Testimonial Block -->
                 <div class="testimonial-block-seven">
                     <div class="inner-box">
-                        <figure class="thumb"><img src="images/resource/testi7-thumb1.jpg" alt=""></figure>
+                        <figure class="thumb"><img src="/images/resource/testi7-thumb1.jpg" alt=""></figure>
                         <h6 class="name">Cody Fisher</h6>
                         <span class="designation">Web Designer</span>
                         <div class="text">It is a long established fact that a reader will beinl distracted by the
@@ -484,7 +423,7 @@
                 <!-- Testimonial Block -->
                 <div class="testimonial-block-seven">
                     <div class="inner-box">
-                        <figure class="thumb"><img src="images/resource/testi7-thumb2.jpg" alt=""></figure>
+                        <figure class="thumb"><img src="/images/resource/testi7-thumb2.jpg" alt=""></figure>
                         <h6 class="name">Brooklyn Simmons</h6>
                         <span class="designation">President of Sales</span>
                         <div class="text">It is a long established fact that a reader will beinl distracted by the
@@ -510,7 +449,7 @@
 
 <!-- Fun Fact Section-->
 <section class="fun-fact-section-seven">
-    <div class="bg bg-image" style="background-image: url(images/background/7.jpg);"></div>
+    <div class="bg bg-image" style="background-image: url(/images/background/7.jpg);"></div>
     <div class="auto-container">
         <div class="fact-counter">
             <div class="outer-container">
@@ -593,12 +532,12 @@
             <div class="news-block-seven col-lg-4 col-md-6 col-sm-12 wow fadeInUp">
                 <div class="inner-box">
                     <div class="image-box">
-                        <figure class="image"><a href="news-details.html"><img src="images/resource/news7-1.jpg"
+                        <figure class="image"><a href="news-details.html"><img src="/images/resource/news7-1.jpg"
                                     alt="Image"></a></figure>
                     </div>
                     <div class="content-box">
                         <div class="post-box">
-                            <img src="images/resource/news7-thumb1.jpg" alt="Image /">
+                            <img src="/images/resource/news7-thumb1.jpg" alt="Image /">
                             <ul class="post-meta">
                                 <li><i class="icon fa fa-user"></i> By admin</li>
                                 <li><i class="icon fa fa-calendar"></i> October 19, 2023</li>
@@ -618,12 +557,12 @@
             <div class="news-block-seven col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="300ms">
                 <div class="inner-box">
                     <div class="image-box">
-                        <figure class="image"><a href="news-details.html"><img src="images/resource/news7-2.jpg"
+                        <figure class="image"><a href="news-details.html"><img src="/images/resource/news7-2.jpg"
                                     alt="Image"></a></figure>
                     </div>
                     <div class="content-box">
                         <div class="post-box">
-                            <img src="images/resource/news7-thumb2.jpg" alt="Image /">
+                            <img src="/images/resource/news7-thumb2.jpg" alt="Image /">
                             <ul class="post-meta">
                                 <li><i class="icon fa fa-user"></i> By admin</li>
                                 <li><i class="icon fa fa-calendar"></i> October 19, 2023</li>
@@ -643,12 +582,12 @@
             <div class="news-block-seven col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="600ms">
                 <div class="inner-box">
                     <div class="image-box">
-                        <figure class="image"><a href="news-details.html"><img src="images/resource/news7-3.jpg"
+                        <figure class="image"><a href="news-details.html"><img src="/images/resource/news7-3.jpg"
                                     alt="Image"></a></figure>
                     </div>
                     <div class="content-box">
                         <div class="post-box">
-                            <img src="images/resource/news7-thumb3.jpg" alt="Image /">
+                            <img src="/images/resource/news7-thumb3.jpg" alt="Image /">
                             <ul class="post-meta">
                                 <li><i class="icon fa fa-user"></i> By admin</li>
                                 <li><i class="icon fa fa-calendar"></i> October 19, 2023</li>
