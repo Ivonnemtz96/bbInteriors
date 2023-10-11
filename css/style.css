@@ -44,7 +44,8 @@ License: copyright commercial
   --theme-color2: #383F46;
   --theme-color4: #010D4C;
   --bg-theme-color1: var(--theme-color1);
-  --bg-theme-color2: var(--theme-color2);
+  --bg-theme-color2: #c19090;
+  /* --bg-theme-color2: var(--theme-color2); */
   --text-color: #777;
   --headings-color: #30373E;
   --link-color: var(--headings-color);
@@ -12525,7 +12526,7 @@ Section Title
 .testimonial-block-seven .inner-box {
   position: relative;
   padding: 31px 40px 29px;
-  border: 1px solid rgba(255, 255, 255, 0.1);
+  border: 1.5px solid #c19090;
 }
 @media (max-width: 575.98px) {
   .testimonial-block-seven .inner-box {
@@ -20553,4 +20554,8 @@ Sidebar
 .team-contact-form textarea {
   background-color: #fff;
   height: 180px;
+}
+
+.opiniones{
+  color: #000 !important;
 }

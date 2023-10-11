@@ -4,7 +4,7 @@
         <!-- Main box -->
         <div class="main-box">
             <div class="logo-box">
-                <div class="logo"><a href="index.html"><img src="/images/logo.png" alt="" title="Archisky"></a></div>
+                <div class="logo"><a href="/"><img style="width: 8rem;" src="/images/logo-b.png?=1" alt="" title="Archisky"></a></div>
             </div>
             <!--Nav Box-->
             <div class="nav-outer">
@@ -13,7 +13,7 @@
                         <li class="current"><a href="/">Inicio</a></li>
                         <li><a href="#about">Acerca de</a></li>
                         <li><a href="#services">Servicios</a></li>
-                        <li><a href="#projects">Galería</a></li>
+                        <li><a href="#gallery">Galería</a></li>
                         <li><a href="#projects">Proyectos</a></li>
                         <li><a href="#contact">Contacto</a></li>
                     </ul>
@@ -37,7 +37,7 @@
         <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
         <nav class="menu-box">
             <div class="upper-box">
-                <div class="nav-logo"><a href="index.html"><img src="/images/logo-white.png" alt="" title=""></a></div>
+                <div class="nav-logo"><a href="/"><img src="/images/logo-b.png" alt="" title=""></a></div>
                 <div class="close-btn"><i class="icon fa fa-times"></i></div>
             </div>
             <ul class="navigation clearfix">
@@ -73,7 +73,7 @@
             <div class="inner-container">
                 <!--Logo-->
                 <div class="logo">
-                    <a href="index.html" title=""><img src="/images/logo.png" alt="" title=""></a>
+                    <a href="/" title=""><img src="/images/logo-b.png" style="width: 5rem;" alt="" title=""></a>
                 </div>
                 <!--Right Col-->
                 <div class="nav-outer">

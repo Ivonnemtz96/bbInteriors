@@ -79,7 +79,7 @@
                         </div>
                     </div>
                     <div class="btn-box">
-                        <a href="page-about.html" class="theme-btn btn-style-one">
+                        <a href="#/contacto" class="theme-btn btn-style-one">
                             <span class="btn-title">Contactar <i class="fa fa-arrow-right"></i></span>
                         </a>
                     </div>
@@ -91,13 +91,15 @@
                 <div class="row justify-content-between h-100">
                     <div class="col-md-12 text-start mb-2">
                         <figure class="image overlay-anim">
-                            <img src="/images/resource/01.jpg" alt="Image" style="border-radius: 0px 100px;width: 30rem;">
+                            <img src="/images/resource/01.jpg" alt="Image"
+                                style="border-radius: 0px 100px;width: 30rem;">
                         </figure>
                     </div>
                     <div class="col-md-12 text-end mt-2">
-                    <figure class="image-2 overlay-anim ">
-                        <img src="/images/resource/02.jpg" alt="Image" style="border-radius: 0px 100px;width: 30rem;">
-                    </figure>
+                        <figure class="image-2 overlay-anim ">
+                            <img src="/images/resource/02.jpg" alt="Image"
+                                style="border-radius: 0px 100px;width: 30rem;">
+                        </figure>
                     </div>
                 </div>
                 <div hidden class="inner-column">
@@ -105,7 +107,7 @@
                     <div class="icon icon-line"></div> -->
                     <div class="image-box">
 
-                        
+
                         <!-- <div class="info-box">
                             <div class="inner-box">
                                 <div class="icon-box"><i class="icon flaticon-diamond"></i></div>
@@ -188,11 +190,11 @@
 <!-- End Fun Fact Section-->
 
 <!-- Process Section -->
-<section class="process-section-three pt-0 mt-5">
+<section class="process-section-three pt-0 mt-5" id="services">
     <div class="auto-container">
         <div class="sec-title">
             <span class="sub-title">Nuestros Servicios</span>
-            <h2> <br> Interiorismo en estado puro</h2>
+            <h2>Interiorismo en estado puro</h2>
         </div>
 
         <div class="team-carousel owl-carousel owl-theme default-navs">
@@ -201,14 +203,16 @@
             <div class="process-block-three">
                 <div class="inner-box">
                     <div class="top-box">
-                        <div class="icon-box"><i class="icon flaticon-graph-1"></i></div>
+                        <div class="icon-box"><img src="/images/icons/03.png" alt=""></div>
                         <h2 class="count">01</h2>
                     </div>
-                    <h4 class="title"><a href="page-about.html">UI/UX Design</a></h4>
-                    <div class="text">It is a long established fact that a reader hk will be distracted by the readable
-                        contenthl of a page when looking at its layout. </div>
+                    <h4 class="title"><a href="#">Diseño de Interiores</a></h4>
+                    <div class="text">
+                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt quia autem et totam rerum,
+                        repellendus quod placeat. Nam, delectus esse!
+                    </div>
                     <div class="btn-box">
-                        <a href="page-about.html" class="read-more"><i class="icon fa fa-arrow-right"></i></a>
+                        <a href="#" class="read-more"><i class="icon fa fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -217,14 +221,16 @@
             <div class="process-block-three">
                 <div class="inner-box">
                     <div class="top-box">
-                        <div class="icon-box"><i class="icon flaticon-approved"></i></div>
+                        <div class="icon-box"><img src="/images/icons/01.png" alt=""></div>
                         <h2 class="count">02</h2>
                     </div>
-                    <h4 class="title"><a href="page-about.html">Cloud Services</a></h4>
-                    <div class="text">It is a long established fact that a reader hk will be distracted by the readable
-                        contenthl of a page when looking at its layout. </div>
+                    <h4 class="title"><a href="#">Construcción</a></h4>
+                    <div class="text">
+                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptas esse, non dolor dolores amet
+                        dicta reprehenderit hic molestiae repudiandae distinctio.
+                    </div>
                     <div class="btn-box">
-                        <a href="page-about.html" class="read-more"><i class="icon fa fa-arrow-right"></i></a>
+                        <a href="#" class="read-more"><i class="icon fa fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -233,14 +239,16 @@
             <div class="process-block-three">
                 <div class="inner-box">
                     <div class="top-box">
-                        <div class="icon-box"><i class="icon flaticon-diamond"></i></div>
+                        <div class="icon-box"><img src="/images/icons/04.png" alt=""></div>
                         <h2 class="count">03</h2>
                     </div>
-                    <h4 class="title"><a href="page-about.html">Network Solutions</a></h4>
-                    <div class="text">It is a long established fact that a reader hk will be distracted by the readable
-                        contenthl of a page when looking at its layout. </div>
+                    <h4 class="title"><a href="#">Remodelación</a></h4>
+                    <div class="text">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque fugit quisquam sunt qui vero
+                        veniam quas incidunt? Quis, voluptates saepe?
+                    </div>
                     <div class="btn-box">
-                        <a href="page-about.html" class="read-more"><i class="icon fa fa-arrow-right"></i></a>
+                        <a href="#" class="read-more"><i class="icon fa fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -249,14 +257,16 @@
             <div class="process-block-three">
                 <div class="inner-box">
                     <div class="top-box">
-                        <div class="icon-box"><i class="icon flaticon-graph-1"></i></div>
-                        <h2 class="count">01</h2>
+                        <div class="icon-box"><img src="/images/icons/02.png" alt=""></div>
+                        <h2 class="count">04</h2>
                     </div>
-                    <h4 class="title"><a href="page-about.html">UI/UX Design</a></h4>
-                    <div class="text">It is a long established fact that a reader hk will be distracted by the readable
-                        contenthl of a page when looking at its layout. </div>
+                    <h4 class="title"><a href="#">Decoración Residencial</a></h4>
+                    <div class="text">
+                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Temporibus ullam voluptate corrupti
+                        officia. Aspernatur, nesciunt doloremque. Laudantium pariatur eligendi rerum?
+                    </div>
                     <div class="btn-box">
-                        <a href="page-about.html" class="read-more"><i class="icon fa fa-arrow-right"></i></a>
+                        <a href="#" class="read-more"><i class="icon fa fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -266,11 +276,11 @@
 <!--End Process Section -->
 
 <!-- Project Section -->
-<section class="project-section-five pt-0">
+<section class="project-section-five pt-0" id="gallery">
     <div class="auto-container ">
         <div class="sec-title light text-center pt-40">
-            <span class="sub-title">Latest Gallery</span>
-            <h2>Style meets substance in our <br> designs</h2>
+            <span class="sub-title">Diseños que marcan la diferencia</span>
+            <h2>BB Interiors <br> Interior Design & Construction</h2>
         </div>
 
         <div class="row">
@@ -281,8 +291,8 @@
                     <div class="project-block-five col-lg-6 col-md-6 col-sm-12">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><a href="page-projects.html"><img
-                                            src="/images/resource/04.jpg" alt=""></a></figure>
+                                <figure class="image"><a href="#"><img src="/images/resource/04.jpg"
+                                            alt=""></a></figure>
                             </div>
                         </div>
                     </div>
@@ -291,8 +301,8 @@
                     <div class="project-block-five col-lg-6 col-md-6 col-sm-12">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><a href="page-projects.html"><img
-                                            src="/images/resource/05.jpg" alt=""></a></figure>
+                                <figure class="image"><a href="#"><img src="/images/resource/05.jpg"
+                                            alt=""></a></figure>
                             </div>
                         </div>
                     </div>
@@ -301,8 +311,8 @@
                     <div class="project-block-five col-lg-6 col-md-6 col-sm-12">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><a href="page-projects.html"><img
-                                            src="/images/resource/06.jpg" alt=""></a></figure>
+                                <figure class="image"><a href="#"><img src="/images/resource/06.jpg"
+                                            alt=""></a></figure>
                             </div>
                         </div>
                     </div>
@@ -311,8 +321,8 @@
                     <div class="project-block-five col-lg-6 col-md-6 col-sm-12">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><a href="page-projects.html"><img
-                                            src="/images/resource/07.jpg" alt=""></a></figure>
+                                <figure class="image"><a href="#"><img src="/images/resource/07.jpg"
+                                            alt=""></a></figure>
                             </div>
                         </div>
                     </div>
@@ -325,7 +335,7 @@
                 <div class="project-block-five">
                     <div class="inner-box">
                         <div class="image-box">
-                            <figure class="image"><a href="page-projects.html"><img src="/images/resource/03.jpg"
+                            <figure class="image"><a href="#"><img src="/images/resource/03.jpg"
                                         alt=""></a></figure>
                         </div>
                     </div>
@@ -335,8 +345,6 @@
     </div>
 </section>
 <!-- End Projects Section -->
-
-
 
 <!-- call to action -->
 <section class="call-to-action-six">
@@ -350,7 +358,7 @@
                 </div>
             </div>
             <div class="btn-box">
-                <a href="page-contact.html" class="theme-btn btn-style-one">
+                <a href="#" class="theme-btn btn-style-one">
                     <span class="btn-title"> Contactar</span></a>
             </div>
         </div>
@@ -361,39 +369,47 @@
 
 <!-- Process Section -->
 <section class="process-section-six pt-0">
-    <div class="auto-container">
-        <div class="sec-title text-center pt-50">
-            <span class="sub-title">Pasión por el diseño</span>
-            <h2>Hacemos realidad tu <br> espacio de ensueño.</h2>
-        </div>
+    <div class="auto-container mt-50">
 
-        <div class="row">
+        <div class="row justify-content-between">
 
             <!-- process-Block -->
-            <div class="process-block-six col-lg-4 col-md-6 col-sm-12 wow fadeInUp">
-                <img src="/images/resource/09.jpg" alt="">
+            <div class="col-md-4">
+                <div class="sec-title text-center pt-50">
+                    <span class="sub-title">Pasión por el diseño</span>
+                    <h2>Hacemos realidad tu <br> espacio de ensueño.</h2>
+                </div>
+                <div class="container mt-5 mb-5">
+                    <img src="/images/resource/10.jpg" alt="">
+                </div>
+            </div>
+            <div class="process-block-six col-md-8 col-sm-12 wow fadeInUp">
+                <img src="/images/resource/09.jpg?=1" alt="">
             </div>
 
             <!-- process-Block -->
-            <div class="process-block-six col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="300ms">
-               
+            <div class="process-block-six col-md-6 col-sm-12 wow fadeInUp">
+                <div class="container mt-5 mb-5">
+                    <img src="/images/resource/01.jpg?=1" alt="">
+                </div>
+            </div>
+            <div class="col-md-6 col-sm-12 wow fadeInUp">
+                <div class="container mt-5 mb-5">
+                    <img src="/images/resource/02.jpg" alt="">
+                </div>
             </div>
 
-            <!-- process-Block -->
-            <div class="process-block-six col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="600ms">
-               
-            </div>
         </div>
     </div>
 </section>
 <!--End process Section -->
 
 <!-- Testimonial Section -->
-<section id="testimonial" class="testimonial-section-seven">
+<section id="testimonial" class="testimonial-section-seven" style="background-color: #c1a9908f;">
     <div class="auto-container">
         <div class="sec-title light text-center">
-            <span class="sub-title">Testimonial</span>
-            <h2>A smarter way to manage <br> your money</h2>
+            <span class="sub-title">Opiniones</span>
+            <h2>¿Qué dicen nuestros clientes de <br> BB Interiors Design?</h2>
         </div>
 
         <div class="carousel-outer">
@@ -402,19 +418,19 @@
                 <div class="testimonial-block-seven">
                     <div class="inner-box">
                         <figure class="thumb"><img src="/images/resource/testi7-thumb1.jpg" alt=""></figure>
-                        <h6 class="name">Cody Fisher</h6>
-                        <span class="designation">Web Designer</span>
-                        <div class="text">It is a long established fact that a reader will beinl distracted by the
-                            hjkljli readable content of a page jklilk when looking at its layout. It is a long hjl
-                            establishedl fact that a reader will be distracted by the hjkfhllil readableli content
-                            layout design by the boy and thedesign you</div>
+                        <h6 class="name opiniones">Cliente 1</h6>
+                        <!-- <span class="designation">Web Designer</span> -->
+                        <div class="text opiniones">
+                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Recusandae natus odit voluptates
+                            quia, aperiam ratione id. Sint provident iure voluptatem!
+                        </div>
                         <div class="rating">
                             <i class="fa fa-star"></i>
                             <i class="fa fa-star"></i>
                             <i class="fa fa-star"></i>
                             <i class="fa fa-star"></i>
                             <i class="fa fa-star"></i>
-                            <span>4.8</span>
+                            <!-- <span>4.8</span> -->
                         </div>
                         <span class="quote-icon fa fa-quote-right"></span>
                     </div>
@@ -424,19 +440,18 @@
                 <div class="testimonial-block-seven">
                     <div class="inner-box">
                         <figure class="thumb"><img src="/images/resource/testi7-thumb2.jpg" alt=""></figure>
-                        <h6 class="name">Brooklyn Simmons</h6>
-                        <span class="designation">President of Sales</span>
-                        <div class="text">It is a long established fact that a reader will beinl distracted by the
-                            hjkljli readable content of a page jklilk when looking at its layout. It is a long hjl
-                            establishedl fact that a reader will be distracted by the hjkfhllil readableli content
-                            layout design by the boy and thedesign you</div>
+                        <h6 class="name opiniones">Cliente 2</h6>
+                        <!-- <span class="designation">President of Sales</span> -->
+                        <div class="text opiniones">Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+                            Reprehenderit nemo
+                            reiciendis totam quibusdam et facilis quasi assumenda porro fugit labore.</div>
                         <div class="rating">
                             <i class="fa fa-star"></i>
                             <i class="fa fa-star"></i>
                             <i class="fa fa-star"></i>
                             <i class="fa fa-star"></i>
                             <i class="fa fa-star"></i>
-                            <span>4.8</span>
+                            <!-- <span>4.8</span> -->
                         </div>
                         <span class="quote-icon fa fa-quote-right"></span>
                     </div>
@@ -447,84 +462,13 @@
 </section>
 <!-- End Testimonial Section -->
 
-<!-- Fun Fact Section-->
-<section class="fun-fact-section-seven">
-    <div class="bg bg-image" style="background-image: url(/images/background/7.jpg);"></div>
-    <div class="auto-container">
-        <div class="fact-counter">
-            <div class="outer-container">
-                <div class="row">
-                    <!-- Counter block-->
-                    <div class="counter-block-seven col-xl-3 col-lg-6 col-md-6 col-sm-12 wow fadeInUp">
-                        <div class="inner-box">
-                            <div class="content-box">
-                                <div class="icon-box"><i class="icon flaticon-diamond"></i></div>
-                                <div class="content">
-                                    <div class="count-box"><span class="count-text" data-speed="3000"
-                                            data-stop="200">0</span>+</div>
-                                    <h6 class="counter-title">Winning award</h6>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Counter block-->
-                    <div class="counter-block-seven col-xl-3 col-lg-6 col-md-6 col-sm-12 wow fadeInUp"
-                        data-wow-delay="300ms">
-                        <div class="inner-box">
-                            <div class="content-box">
-                                <div class="icon-box"><i class="icon flaticon-diploma"></i></div>
-                                <div class="content">
-                                    <div class="count-box"><span class="count-text" data-speed="3000"
-                                            data-stop="350">0</span>+</div>
-                                    <h6 class="counter-title">Client review</h6>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Counter block-->
-                    <div class="counter-block-seven col-xl-3 col-lg-6 col-md-6 col-sm-12 wow fadeInUp"
-                        data-wow-delay="600ms">
-                        <div class="inner-box">
-                            <div class="content-box">
-                                <div class="icon-box"><i class="icon flaticon-approved"></i></div>
-                                <div class="content">
-                                    <div class="count-box"><span class="count-text" data-speed="3000"
-                                            data-stop="400">0</span>+</div>
-                                    <h6 class="counter-title">Happy Clients</h6>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Counter block-->
-                    <div class="counter-block-seven col-xl-3 col-lg-6 col-md-6 col-sm-12 wow fadeInUp"
-                        data-wow-delay="900ms">
-                        <div class="inner-box">
-                            <div class="content-box">
-                                <div class="icon-box"><i class="icon flaticon-tower"></i></div>
-                                <div class="content">
-                                    <div class="count-box"><span class="count-text" data-speed="3000"
-                                            data-stop="300">0</span>+</div>
-                                    <h6 class="counter-title">Team Members</h6>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- End Fun Fact Section-->
 
 <!-- News Section -->
-<section id="news" class="news-section-seven pb-0">
+<section id="projects" class="news-section-seven pb-0">
     <div class="auto-container">
         <div class="sec-title text-center">
-            <span class="sub-title">Blog and News</span>
-            <h2>Unlock the beauty within <br> your walls</h2>
+            <span class="sub-title">Portafolio</span>
+            <h2>Proyectos únicos</h2>
         </div>
 
         <div class="row">
@@ -532,22 +476,16 @@
             <div class="news-block-seven col-lg-4 col-md-6 col-sm-12 wow fadeInUp">
                 <div class="inner-box">
                     <div class="image-box">
-                        <figure class="image"><a href="news-details.html"><img src="/images/resource/news7-1.jpg"
-                                    alt="Image"></a></figure>
+                        <figure class="image"><a href="#"><img src="/images/resource/01.jpg" alt="Image"></a></figure>
                     </div>
                     <div class="content-box">
-                        <div class="post-box">
-                            <img src="/images/resource/news7-thumb1.jpg" alt="Image /">
-                            <ul class="post-meta">
-                                <li><i class="icon fa fa-user"></i> By admin</li>
-                                <li><i class="icon fa fa-calendar"></i> October 19, 2023</li>
-                            </ul>
+                        <h4 class="title"><a href="#">Proyecto 1</a></h4>
+                        <div class="text">
+                            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Recusandae nemo veritatis fuga,
+                            hic vitae autem?
                         </div>
-                        <h4 class="title"><a href="news-details.html">Dream Space Design</a></h4>
-                        <div class="text">It is a long established fact desigi that a reader be distracted by the
-                            readable content of page when looking at its layout.</div>
                         <div class="btn-box">
-                            <a href="news-details.html" class="read-more"><i class="icon fa fa-arrow-right"></i></a>
+                            <a href="#" class="read-more"><i class="icon fa fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -557,22 +495,16 @@
             <div class="news-block-seven col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="300ms">
                 <div class="inner-box">
                     <div class="image-box">
-                        <figure class="image"><a href="news-details.html"><img src="/images/resource/news7-2.jpg"
-                                    alt="Image"></a></figure>
+                        <figure class="image"><a href="#"><img src="/images/resource/02.jpg" alt="Image"></a></figure>
                     </div>
                     <div class="content-box">
-                        <div class="post-box">
-                            <img src="/images/resource/news7-thumb2.jpg" alt="Image /">
-                            <ul class="post-meta">
-                                <li><i class="icon fa fa-user"></i> By admin</li>
-                                <li><i class="icon fa fa-calendar"></i> October 19, 2023</li>
-                            </ul>
+                        <h4 class="title"><a href="#">Proyecto 2</a></h4>
+                        <div class="text">
+                            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Recusandae nemo veritatis fuga,
+                            hic vitae autem?
                         </div>
-                        <h4 class="title"><a href="news-details.html">Inspired Living Solutions</a></h4>
-                        <div class="text">It is a long established fact desigi that a reader be distracted by the
-                            readable content of page when looking at its layout.</div>
                         <div class="btn-box">
-                            <a href="news-details.html" class="read-more"><i class="icon fa fa-arrow-right"></i></a>
+                            <a href="#" class="read-more"><i class="icon fa fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -582,22 +514,16 @@
             <div class="news-block-seven col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="600ms">
                 <div class="inner-box">
                     <div class="image-box">
-                        <figure class="image"><a href="news-details.html"><img src="/images/resource/news7-3.jpg"
-                                    alt="Image"></a></figure>
+                        <figure class="image"><a href="#"><img src="/images/resource/05.jpg" alt="Image"></a></figure>
                     </div>
                     <div class="content-box">
-                        <div class="post-box">
-                            <img src="/images/resource/news7-thumb3.jpg" alt="Image /">
-                            <ul class="post-meta">
-                                <li><i class="icon fa fa-user"></i> By admin</li>
-                                <li><i class="icon fa fa-calendar"></i> October 19, 2023</li>
-                            </ul>
+                        <h4 class="title"><a href="#">Proyecto 3</a></h4>
+                        <div class="text">
+                            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Recusandae nemo veritatis fuga,
+                            hic vitae autem?
                         </div>
-                        <h4 class="title"><a href="news-details.html">Timeless Aesthetics Architects</a></h4>
-                        <div class="text">It is a long established fact desigi that a reader be distracted by the
-                            readable content of page when looking at its layout.</div>
                         <div class="btn-box">
-                            <a href="news-details.html" class="read-more"><i class="icon fa fa-arrow-right"></i></a>
+                            <a href="#" class="read-more"><i class="icon fa fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -613,22 +539,21 @@
         <div class="row">
             <div class="col-xl-7 col-lg-6">
                 <div class="sec-title">
-                    <span class="sub-title">Send us email</span>
-                    <h2>Feel free to write</h2>
+                    <span class="sub-title">Nos encantaría saber de ti</span>
+                    <h2>Escríbenos</h2>
                 </div>
                 <!-- Contact Form -->
-                <form id="contact_form" name="contact_form" class=""
-                    action="https://kodesolution.com/html/2023/archisky-html/includes/sendmail.php" method="post">
+                <form id="contact_form" name="contact_form" class="" action="" method="post">
                     <div class="row">
                         <div class="col-sm-6">
                             <div class="mb-3">
-                                <input name="form_name" class="form-control" type="text" placeholder="Enter Name">
+                                <input name="form_name" class="form-control" type="text" placeholder="Nombre">
                             </div>
                         </div>
                         <div class="col-sm-6">
                             <div class="mb-3">
                                 <input name="form_email" class="form-control required email" type="email"
-                                    placeholder="Enter Email">
+                                    placeholder="Correo">
                             </div>
                         </div>
                     </div>
@@ -636,25 +561,23 @@
                         <div class="col-sm-6">
                             <div class="mb-3">
                                 <input name="form_subject" class="form-control required" type="text"
-                                    placeholder="Enter Subject">
+                                    placeholder="Asunto">
                             </div>
                         </div>
                         <div class="col-sm-6">
                             <div class="mb-3">
-                                <input name="form_phone" class="form-control" type="text" placeholder="Enter Phone">
+                                <input name="form_phone" class="form-control" type="text" placeholder="Teléfono">
                             </div>
                         </div>
                     </div>
                     <div class="mb-3">
                         <textarea name="form_message" class="form-control required" rows="7"
-                            placeholder="Enter Message"></textarea>
+                            placeholder="Mensaje"></textarea>
                     </div>
                     <div class="mb-5">
                         <input name="form_botcheck" class="form-control" type="hidden" value="" />
                         <button type="submit" class="theme-btn btn-style-one" data-loading-text="Please wait..."><span
-                                class="btn-title">Send message</span></button>
-                        <button type="reset" class="theme-btn btn-style-one bg-theme-color5"><span
-                                class="btn-title">Reset</span></button>
+                                class="btn-title">Enviar</span></button>
                     </div>
                 </form>
                 <!-- Contact Form Validation-->
@@ -662,10 +585,11 @@
             <div class="col-xl-5 col-lg-6">
                 <div class="contact-details__right">
                     <div class="sec-title">
-                        <span class="sub-title">Need any help?</span>
-                        <h2>Get in touch with us</h2>
-                        <div class="text">Lorem ipsum is simply free text available dolor sit amet consectetur notted
-                            adipisicing elit sed do eiusmod tempor incididunt simply dolore magna.</div>
+                        <span class="sub-title">Visítanos</span>
+                        <h2>Dirección</h2>
+                        <div class="text">
+                            Póngase en contacto con nosotros
+                        </div>
                     </div>
                     <ul class="list-unstyled contact-details__info">
                         <li>
@@ -673,8 +597,8 @@
                                 <span class="lnr-icon-phone-plus"></span>
                             </div>
                             <div class="text">
-                                <h6>Have any question?</h6>
-                                <a href="tel:980089850"><span>Free</span> +92 (020)-9850</a>
+                                <h6>¿Tienes alguna pregunta?</h6>
+                                <a href="tel:+521234567890"> +52 123 456 7890</a>
                             </div>
                         </li>
                         <li>
@@ -682,8 +606,8 @@
                                 <span class="lnr-icon-envelope1"></span>
                             </div>
                             <div class="text">
-                                <h6>Write email</h6>
-                                <a href="mailto:needhelp@company.com">needhelp@company.com</a>
+                                <h6>Escríbenos</h6>
+                                <a href="mailto:info@bbinteriordesign.com">info@bbinteriordesign.com</a>
                             </div>
                         </li>
                         <li>
@@ -691,12 +615,18 @@
                                 <span class="lnr-icon-location"></span>
                             </div>
                             <div class="text">
-                                <h6>Visit anytime</h6>
-                                <span>66 broklyn golden street. New York</span>
+                                <h6>Dirección</h6>
+                                <span>Zona Hotelera, 23405 San José del Cabo, Baja California Sur</span>
                             </div>
                         </li>
                     </ul>
                 </div>
+            </div>
+            <div class="col-md-12">
+                <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d531.3273282725465!2d-109.70551036300796!3d23.042129282365103!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af508b80da83e3%3A0xb568a51443bc8d2!2sPlaza%20del%20Mar!5e0!3m2!1sen!2smx!4v1696973655301!5m2!1sen!2smx"
+                    width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                    referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
         </div>
     </div>
